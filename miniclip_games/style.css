@@ -1,0 +1,64 @@
+BODY{
+scrollbar-face-color:#ffffff;
+scrollbar-arrow-color:#000099;
+scrollbar-track-color:#000099;
+scrollbar-shadow-color:#0000cc;
+scrollbar-highlight-color:#9999cc;
+scrollbar-3dlight-color:#ff0000;
+scrollbar-darkshadow-Color:000099;
+; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal
+; background-color: #000099
+}
+
+
+	.header {
+		background-color: #0099ff;
+		font-family: Verdana;
+		font-size: 12px;
+		font-weight: bold;
+		font-style: normal;
+; color: #FFFFFF
+; line-height: 150%
+	}
+	a.header {
+		color: #FFFFFF;
+		font-family: Verdana;
+		font-size: 12px;
+		font-weight: bold;
+		font-style: normal;
+		text-decoration: none;
+	}
+a.headlinks {
+		color: #0000FF;
+		font-family: Verdana;
+		font-size: 18px;
+		font-weight: bold;
+		font-style: normal;
+		text-decoration: none;
+
+	}
+	a.header:hover {
+		color: #FFFF00;
+		text-decoration: underline;
+}
+	a.headlinks:hover {
+		color: #FF0000;
+		font-family: Verdana;
+		font-size: 18px;
+		font-weight: bold;
+		font-style: normal;
+		text-decoration: underline;
+
+}
+.text1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; line-height: 125%}
+.header1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold; color: #000099; text-decoration: none; background-color: #FFFFFF}
+.links2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold}
+.headlinks {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold}
+a:hover {  color: #FF0000; text-decoration: underline}
+a:link {  text-decoration: none}
+.gamelinks {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: italic; font-weight: normal; color: #0000CC; text-align: center}
+.description {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: italic; color: #0000CC; padding-top: 2px; padding-right: 5px; padding-bottom: 2px; padding-left: 5px}
+h3 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #0000CC}
+.spacing {  background-color: #FFFFFF; height: 5px}
+li {  color: #0000CC; list-style-type: circle}
